@@ -1,0 +1,13 @@
+#heading {
+    margin-top: 15px;
+    padding: 10px;
+}
+#camera, #output {
+    height: 300px;
+    width: 300px;
+    background-color:cornsilk;
+    border-radius: 15%;
+}
+button {
+    border-radius: 10%;
+}
